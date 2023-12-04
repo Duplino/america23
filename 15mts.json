@@ -201,3 +201,27 @@
         "glider": "ASW 20",
         "comp": "15 Mts",
         "flarm": ["D01F0C"]
+            },
+    {
+        "name": "Tonelli Mauricio",
+        "cn": "VN",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD529E"]
+    },
+    {
+        "name": "Marcaida Jose",
+        "cn": "WB",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDBADE"]
+    },
+    {
+        "name": "Garda Raul A.",
+        "cn": "ZB",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD52C1"]
+    }
+]
+
