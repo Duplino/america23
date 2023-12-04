@@ -1,0 +1,203 @@
+[
+    {
+        "name": "Luengo Sebastian",
+        "cn": "CQ",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D00993"]
+    },
+    {
+        "name": "Goldenzweig Damian",
+        "cn": "WL",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D00ECF"]
+    },
+    {
+        "name": "Verdura Martin",
+        "cn": "Y",
+        "glider": "LS 6",
+        "comp": "15 Mts",
+        "flarm": ["D0130F"]
+    },
+    {
+        "name": "Ferraris Virgilio",
+        "cn": "1R",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["288FFE"]
+    },
+    {
+        "name": "Calamante Carlos",
+        "cn": "C",
+        "glider": "Kestrel 17m",
+        "comp": "15 Mts",
+        "flarm": ["D021C4"]
+    },
+    {
+        "name": "Guerra Sebastian P.",
+        "cn": "DR",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D0275C"]
+    },
+    {
+        "name": "Altamira Enrique",
+        "cn": "A2",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D0277C"]
+    },
+    {
+        "name": "De La Rosa Fernando",
+        "cn": "FN",
+        "glider": "Jantar 2b",
+        "comp": "15 Mts",
+        "flarm": ["DD5282"]
+    },
+    {
+        "name": "Cucurull S. Carlos",
+        "cn": "CR",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD5289"]
+    },
+    {
+        "name": "Bossart Martin",
+        "cn": "WR",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD528E"]
+    },
+    {
+        "name": "Pascolo Pablo Emilio",
+        "cn": "HD",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD5293"]
+    },
+    {
+        "name": "Darrain Manuel",
+        "cn": "LG",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD52A2"]
+    },
+    {
+        "name": "San Sebastian Simon",
+        "cn": "EG",
+        "glider": "DG 400 17m",
+        "comp": "15 Mts",
+        "flarm": ["DD52A9"]
+    },
+    {
+        "name": "Eduardo Barrera",
+        "cn": "RJ",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD52B3"]
+    },
+    {
+        "name": "Fassi Nicolas",
+        "cn": "NF",
+        "glider": "ventus b 15m",
+        "comp": "15 Mts",
+        "flarm": ["DD52B7"]
+    },
+    {
+        "name": "Solimo Fabian",
+        "cn": "W",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD52C3"]
+    },
+    {
+        "name": "Galoppo Fernando",
+        "cn": "YP",
+        "glider": "Ventus B 15m",
+        "comp": "15 Mts",
+        "flarm": ["DD52CF"]
+    },
+    {
+        "name": "Goldenzweig Lucas",
+        "cn": "DK",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDABCC"]
+    },
+    {
+        "name": "Hernandez Alejandro",
+        "cn": "SH",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDC2E9"]
+    },
+    {
+        "name": "Artico Ignacio",
+        "cn": "10",
+        "glider": "LS 6",
+        "comp": "15 Mts",
+        "flarm": ["DDE9AE"]
+    },
+    {
+        "name": "Girado Felipe",
+        "cn": "N1",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDEC22"]
+    },
+    {
+        "name": "Lanzinetti Marcelo M.",
+        "cn": "ZC",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDF0E8"]
+    },
+    {
+        "name": "Trivellini Omar",
+        "cn": "MB",
+        "glider": "LS 6",
+        "comp": "15 Mts",
+        "flarm": ["DF258F"]
+    },
+    {
+        "name": "De Diego Jorge Alfredo",
+        "cn": "DW",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D006C0"]
+    },
+    {
+        "name": "Damiano Jose",
+        "cn": "FU",
+        "glider": "Ventus b 15m",
+        "comp": "15 Mts",
+        "flarm": ["DD5299"]
+    },
+    {
+        "name": "Pasztor Matias",
+        "cn": "MP",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DF0E74"]
+    },
+    {
+        "name": "Fassi Eduardo",
+        "cn": "MR",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DD5332"]
+    },
+    {
+        "name": "Mirasso Walter",
+        "cn": "POL",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["DDDBE4"]
+    },
+    {
+        "name": "Demodena Santiago",
+        "cn": "TB",
+        "glider": "ASW 20",
+        "comp": "15 Mts",
+        "flarm": ["D01F0C"]
