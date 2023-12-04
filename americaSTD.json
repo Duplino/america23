@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Bonelli Juan",
+        "cn": "SK",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["4B4BF0"]
+    },
+    {
+        "name": "Garcia Nicasio",
+        "cn": "PT",
+        "glider": "SZD-48 Jantar Std. 2",
+        "comp": "STD Class",
+        "flarm": ["D007AA"]
+    },
+    {
+        "name": "Spolita Guillermo",
+        "cn": "Z3",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["D00DB7"]
+    },
+    {
+        "name": "Mazzarella Miguel",
+        "cn": "22",
+        "glider": "Discus b",
+        "comp": "STD Class",
+        "flarm": ["D01D3E"]
+    },
+    {
+        "name": "Caraballo Martin Jose",
+        "cn": "AD",
+        "glider": "DG 200",
+        "comp": "STD Class",
+        "flarm": ["DD4FA1"]
+    },
+    {
+        "name": "Drazul Paula",
+        "cn": "FV",
+        "glider": "SZD-48 Jantar Std. 2",
+        "comp": "STD Class",
+        "flarm": ["DD525F"]
+    },
+    {
+        "name": "Cortiglia Bruno",
+        "cn": "PR",
+        "glider": "SZD-48 Jantar Std. 2",
+        "comp": "STD Class",
+        "flarm": ["DD528D"]
+    },
+    {
+        "name": "Ghioni Dino G.",
+        "cn": "JG",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DD52A6"]
+    },
+    {
+        "name": "Izurieta Anibal",
+        "cn": "C1",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DD52C0"]
+    },
+    {
+        "name": "Carrattini Daniel",
+        "cn": "DI",
+        "glider": "Discus b",
+        "comp": "STD Class",
+        "flarm": ["DDEA23"]
+    },
+    {
+        "name": "Martinez Boero Miguel",
+        "cn": "PS",
+        "glider": "SZD-48 Jantar Std. 2",
+        "comp": "STD Class",
+        "flarm": ["DD5298"]
+    },
+    {
+        "name": "Palmieri Leonardo",
+        "cn": "187",
+        "glider": "Pegase",
+        "comp": "STD Class",
+        "flarm": ["DDDA5B"]
+    },
+    {
+        "name": "Merono Marcos",
+        "cn": "AW",
+        "glider": "Janus 18.2m",
+        "comp": "STD Class",
+        "flarm": ["DD52CD"]
+    },
+    {
+        "name": "De la Huerta Andres",
+        "cn": "SD",
+        "glider": "Pegase",
+        "comp": "STD Class",
+        "flarm": ["D02AEE"]
+    },
+    {
+        "name": "Bengochea Esteban",
+        "cn": "EY",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["D00FFE"]
+    },
+    {
+        "name": "Fernandez Martin",
+        "cn": "FZ",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DDEF9A"]
+    },
+    {
+        "name": "Darrain Martin",
+        "cn": "KC",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DD5124"]
+    },
+    {
+        "name": "Verdura Nicolas",
+        "cn": "NM",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["D024E9"]
+    },
+    {
+        "name": "Riera Gonzalo",
+        "cn": "RG",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DDEC75"]
+    },
+    {
+        "name": "Franzini Cristian",
+        "cn": "RI",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DD52D1"]
+    },
+    {
+        "name": "Centanni Ciro",
+        "cn": "RR",
+        "glider": "LS 4",
+        "comp": "STD Class",
+        "flarm": ["DD52BC"]
+    },
+    {
+        "name": "Pizzolante Nicolas",
+        "cn": "1L",
+        "glider": "SZD-55-1 Nexus",
+        "comp": "STD Class",
+        "flarm": ["D009D7"]
+    },
+    {
+        "name": "Garcia Diego L.",
+        "cn": "3",
+        "glider": "LS 3",
+        "comp": "STD Class",
+        "flarm": ["D026E4"]
+    },
+    {
+        "name": "Delfabro Mauricio",
+        "cn": "MK",
+        "glider": "Discus a",
+        "comp": "STD Class",
+        "flarm": ["D00432"]
+    },
+    {
+        "name": "Zanassi Carlos G.",
+        "cn": "ZT",
+        "glider": "Discus b",
+        "comp": "STD Class",
+        "flarm": ["D01357"]
+    }
+]
